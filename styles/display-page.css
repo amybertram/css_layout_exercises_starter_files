@@ -1,0 +1,33 @@
+.box {
+	border: 1px solid black;
+}
+
+.box.green, .box.blue {
+	height: 200px;
+	width: 400px;
+}
+
+.box.grey, .box.black, .box.orange {
+	height:300px;
+	width: 33.33%;
+}
+
+.box.green {
+	background-color: green;
+}
+
+.box.blue {
+	background-color: blue;
+}
+
+.box.grey {
+	background-color: grey
+}
+
+.box.black {
+	background-color: black;
+}
+
+.box.orange {
+	background-color: orange;
+}
