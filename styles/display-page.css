@@ -1,33 +1,40 @@
 .box {
+	font-size: 0px;
+	width: 800px
+}
+
+.green, .blue {
+	height: 200px;
+	width: 400px;
+	margin: auto;
+	display: inline-block;
 	border: 1px solid black;
 }
 
-.box.green, .box.blue {
-	height: 200px;
-	width: 400px;
-}
-
-.box.grey, .box.black, .box.orange {
+.grey, .black, .orange {
 	height:300px;
 	width: 33.33%;
+	margin: auto;
+	display: inline-block;
+	border: 1px solid black;
 }
 
-.box.green {
+.green {
 	background-color: green;
 }
 
-.box.blue {
+.blue {
 	background-color: blue;
 }
 
-.box.grey {
+.grey {
 	background-color: grey
 }
 
-.box.black {
+.black {
 	background-color: black;
 }
 
-.box.orange {
+.orange {
 	background-color: orange;
 }
