@@ -1,5 +1,6 @@
 main {
 	font-size: 0px;
+	padding: 100px;
 }
 
 .box {
@@ -8,14 +9,14 @@ main {
 	margin-right: auto;
 }
 
-.green, .blue {
+.top {
 	height: 200px;
 	width: 50%;
 	display: inline-block;
 	border: 1px solid black;
 }
 
-.grey, .black, .orange {
+.bottom {
 	height:300px;
 	width: 33.33%;
 	display: inline-block;
