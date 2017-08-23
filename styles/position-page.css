@@ -29,7 +29,7 @@ nav li::after {
 }
 
 body {
-	background: url(images/outerspace_landscape.jpeg) no-repeat center fixed;
+	background: url(../images/outerspace_landscape.jpeg);
 	background-size: cover;
 }
 
